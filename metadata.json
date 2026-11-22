@@ -1,0 +1,6 @@
+{
+  "name": "БАСТИОН 7 — Тактический арена-шутер",
+  "description": "Динамичный 2D-шутер с видом сверху: три вида оружия, рывки, телеграфируемые атаки врагов, тактические улучшения и процедурный звук.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
