@@ -1,0 +1,21 @@
+{
+  "appId": "com.bastion7.shooter",
+  "productName": "Bastion 7",
+  "directories": {
+    "output": "release"
+  },
+  "files": [
+    "dist/**/*",
+    "electron/main.cjs",
+    "package.json",
+    "!node_modules/**/*"
+  ],
+  "win": {
+    "target": [
+      {
+        "target": "portable",
+        "arch": ["x64"]
+      }
+    ]
+  }
+}

@@ -1,7 +1,10 @@
 {
-  "name": "react-example",
+  "name": "bastion-7",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "БАСТИОН 7 — тактический 2D арена-шутер",
+  "author": "Bastion 7",
+  "main": "electron/main.cjs",
   "type": "module",
   "scripts": {
     "dev": "vite --port=3000 --host=0.0.0.0",
