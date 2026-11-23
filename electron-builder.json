@@ -1,6 +1,7 @@
 {
   "appId": "com.bastion7.shooter",
-  "productName": "Bastion 7",
+  "productName": "Bastion-7",
+  "npmRebuild": false,
   "directories": {
     "output": "release"
   },
@@ -11,6 +12,7 @@
     "!node_modules/**/*"
   ],
   "win": {
+    "signAndEditExecutable": false,
     "target": [
       {
         "target": "portable",
